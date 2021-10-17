@@ -15,10 +15,11 @@ A movie site for saving and viewing movies
 - Reacte-router-dom
 - react-toastify
 - Axios
+- Netlify
 
 
 ## Live Demo 🚀
-[SUPER MOVIE](https://super-movie.netlify.app/filmes)
+[SUPER MOVIE](https://super-movie.netlify.app)
 
 ## Getting Started 💻
 
