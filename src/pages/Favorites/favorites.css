@@ -1,0 +1,36 @@
+ul{
+    padding: 0px;
+}
+.img-radius{
+    object-fit: cover;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
+
+ul li{
+    display: flex;
+    padding: 0px;
+    list-style: none;
+    min-width: 600px;
+    justify-content: space-between;
+    margin: 10px;
+}
+li span {
+    font-size: x-large;
+}
+
+li div {
+    display: flex;
+    align-items: center;
+}
+
+li button {
+    margin-left: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: brown;
+}

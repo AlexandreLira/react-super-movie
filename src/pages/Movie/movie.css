@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.movie-info {
+    display: flex;
+    flex-direction: column;
+    width: 711px;
+    text-align: start;
+    align-items: flex-start;
+}
+
+.movie-info img{
+    border-radius: 10px;
+}
+.movie-info p{
+    margin: 0px;
+    margin-bottom: 28px;
+}
+.movie-info .button{
+    border: none;
+    background-color: white;
+    font-size: 16px;
+    color: #000;
+    cursor: pointer;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all 0.25s;
+}
+
+.movie-info .button:hover{
+    background-color: brown;
+    color: #FFF;
+}
+
