@@ -9,8 +9,6 @@ A movie site for saving and viewing movies
 
 ## Built With 🔨
 - Javascript
-- HTML
-- CSS
 - ReactJS
 - Reacte-router-dom
 - react-toastify
