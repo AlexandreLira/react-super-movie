@@ -43,7 +43,7 @@ $ npm run start
 
 
 ## Authors
-👤 **Diego Lira**
+👤 **Alexandre Lira**
 
 - Github: [@AlexandreLira](https://github.com/AlexandreLira)
 - Linkedin : [Alexandre Lira](https://www.linkedin.com/in/alexandre-lira-907234217/)
